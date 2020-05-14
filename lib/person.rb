@@ -1,5 +1,5 @@
 require 'pry'
-# top level documentation
+# Creates person object
 class Person
   def initialize
     name = @name
